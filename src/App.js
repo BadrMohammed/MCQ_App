@@ -27,12 +27,7 @@ class App extends Component {
       <Provider store={store}>
         <BrowserRouter>
           <Switch>
-            <Route
-              exact
-              path="/"
-              basename={window.location.pathname || ""}
-              render={props => <Login {...props} />}
-            />
+            <Route exact path="/" render={props => <Login {...props} />} />
             <Route exact path="/mcq" render={props => <Exam {...props} />} />
           </Switch>
         </BrowserRouter>
