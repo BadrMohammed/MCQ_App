@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mcq_App/static/css/main.be9860a4.chunk.css",
+    "main.js": "/mcq_App/static/js/main.117a7e6c.chunk.js",
+    "main.js.map": "/mcq_App/static/js/main.117a7e6c.chunk.js.map",
+    "runtime-main.js": "/mcq_App/static/js/runtime-main.48e55891.js",
+    "runtime-main.js.map": "/mcq_App/static/js/runtime-main.48e55891.js.map",
+    "static/css/2.b39d7127.chunk.css": "/mcq_App/static/css/2.b39d7127.chunk.css",
+    "static/js/2.e6846fdf.chunk.js": "/mcq_App/static/js/2.e6846fdf.chunk.js",
+    "static/js/2.e6846fdf.chunk.js.map": "/mcq_App/static/js/2.e6846fdf.chunk.js.map",
+    "index.html": "/mcq_App/index.html",
+    "precache-manifest.cf1fd9ddaaa2c52fea4136aadcdae6fd.js": "/mcq_App/precache-manifest.cf1fd9ddaaa2c52fea4136aadcdae6fd.js",
+    "service-worker.js": "/mcq_App/service-worker.js",
+    "static/css/2.b39d7127.chunk.css.map": "/mcq_App/static/css/2.b39d7127.chunk.css.map",
+    "static/css/main.be9860a4.chunk.css.map": "/mcq_App/static/css/main.be9860a4.chunk.css.map",
+    "static/js/2.e6846fdf.chunk.js.LICENSE.txt": "/mcq_App/static/js/2.e6846fdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48e55891.js",
+    "static/css/2.b39d7127.chunk.css",
+    "static/js/2.e6846fdf.chunk.js",
+    "static/css/main.be9860a4.chunk.css",
+    "static/js/main.117a7e6c.chunk.js"
+  ]
+}
