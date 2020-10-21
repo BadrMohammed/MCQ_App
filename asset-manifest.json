@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/mcq/static/css/main.be9860a4.chunk.css",
-    "main.js": "/mcq/static/js/main.5e7ee84f.chunk.js",
-    "main.js.map": "/mcq/static/js/main.5e7ee84f.chunk.js.map",
-    "runtime-main.js": "/mcq/static/js/runtime-main.e2cbe11e.js",
-    "runtime-main.js.map": "/mcq/static/js/runtime-main.e2cbe11e.js.map",
-    "static/css/2.b39d7127.chunk.css": "/mcq/static/css/2.b39d7127.chunk.css",
-    "static/js/2.e6846fdf.chunk.js": "/mcq/static/js/2.e6846fdf.chunk.js",
-    "static/js/2.e6846fdf.chunk.js.map": "/mcq/static/js/2.e6846fdf.chunk.js.map",
-    "index.html": "/mcq/index.html",
-    "precache-manifest.46f35c25cb25c0f56510fd8c7d896027.js": "/mcq/precache-manifest.46f35c25cb25c0f56510fd8c7d896027.js",
-    "service-worker.js": "/mcq/service-worker.js",
-    "static/css/2.b39d7127.chunk.css.map": "/mcq/static/css/2.b39d7127.chunk.css.map",
-    "static/css/main.be9860a4.chunk.css.map": "/mcq/static/css/main.be9860a4.chunk.css.map",
-    "static/js/2.e6846fdf.chunk.js.LICENSE.txt": "/mcq/static/js/2.e6846fdf.chunk.js.LICENSE.txt"
+    "main.css": "/mcq_task/static/css/main.be9860a4.chunk.css",
+    "main.js": "/mcq_task/static/js/main.9f0cfe53.chunk.js",
+    "main.js.map": "/mcq_task/static/js/main.9f0cfe53.chunk.js.map",
+    "runtime-main.js": "/mcq_task/static/js/runtime-main.fcb470f2.js",
+    "runtime-main.js.map": "/mcq_task/static/js/runtime-main.fcb470f2.js.map",
+    "static/css/2.b39d7127.chunk.css": "/mcq_task/static/css/2.b39d7127.chunk.css",
+    "static/js/2.e6846fdf.chunk.js": "/mcq_task/static/js/2.e6846fdf.chunk.js",
+    "static/js/2.e6846fdf.chunk.js.map": "/mcq_task/static/js/2.e6846fdf.chunk.js.map",
+    "index.html": "/mcq_task/index.html",
+    "precache-manifest.aebf4d1600b7aa9d00580f0adbf2e1a3.js": "/mcq_task/precache-manifest.aebf4d1600b7aa9d00580f0adbf2e1a3.js",
+    "service-worker.js": "/mcq_task/service-worker.js",
+    "static/css/2.b39d7127.chunk.css.map": "/mcq_task/static/css/2.b39d7127.chunk.css.map",
+    "static/css/main.be9860a4.chunk.css.map": "/mcq_task/static/css/main.be9860a4.chunk.css.map",
+    "static/js/2.e6846fdf.chunk.js.LICENSE.txt": "/mcq_task/static/js/2.e6846fdf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2cbe11e.js",
+    "static/js/runtime-main.fcb470f2.js",
     "static/css/2.b39d7127.chunk.css",
     "static/js/2.e6846fdf.chunk.js",
     "static/css/main.be9860a4.chunk.css",
-    "static/js/main.5e7ee84f.chunk.js"
+    "static/js/main.9f0cfe53.chunk.js"
   ]
 }
