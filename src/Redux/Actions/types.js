@@ -1,0 +1,5 @@
+// Exam
+
+export const UPDATE_EXAM_PROP = "UPDATE_EXAM_PROP";
+export const MERGE_EXAM_PROP = "MERGE_EXAM_PROP";
+export const DELETE_EXAM_PROP = "DELETE_EXAM_PROP";

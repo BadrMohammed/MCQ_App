@@ -1,0 +1,16 @@
+.wrapperDiv {
+  background-image: url(../assets/mcq.jpg);
+}
+
+body {
+  background-image: linear-gradient(#1d5b11, #eee);
+  overflow: hidden;
+  align-items: center;
+  margin: auto 0;
+}
+
+.btn-try {
+  background-color: transparent;
+  border-color: transparent;
+  color: #1d5b11;
+}
