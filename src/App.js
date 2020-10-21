@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { HashRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 import "./App.css";
 import reducers from "./Redux/Reducers/Index";
 import { Provider } from "react-redux";
@@ -25,12 +25,12 @@ class App extends Component {
   render() {
     return (
       <Provider store={store}>
-        <HashRouter>
+        <BrowserRouter>
           <Switch>
             <Route exact path="/" render={props => <Login {...props} />} />
             <Route exact path="/mcq" render={props => <Exam {...props} />} />
           </Switch>
-        </HashRouter>
+        </BrowserRouter>
       </Provider>
     );
   }
