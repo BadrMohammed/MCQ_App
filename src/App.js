@@ -30,7 +30,7 @@ class App extends Component {
             <Route
               exact
               path="/"
-              basename="/https://BadrMohammed.github.io/mcq/"
+              basename={window.location.pathname || ""}
               render={props => <Login {...props} />}
             />
             <Route exact path="/mcq" render={props => <Exam {...props} />} />
